@@ -1,6 +1,7 @@
 # About
 Source code to perform first-order CPA on traces provided by [ASCAD](https://github.com/ANSSI-FR/ASCAD).
-Traces in this repository have not been modified from original hdf5 files except min-max normalization.
+Traces used in source codes have not been modified from original hdf5 files except min-max normalization.
+To use npy files we used in the experiment, please refer to the [link](https://fsa.fir.riec.tohoku.ac.jp/fircloud/index.php/s/lbYsMUJAOFzJ6DG).
 
 | file name             | description           |
 | ---------------- | ---------------- |
