@@ -18,5 +18,9 @@ To use npy files we used in the experiment, please refer to this [link](https://
 | ASCAD_var_HWtable.npy | table of hypothetical power consumption for variable_key_database         |
 | ASCAD_var_atk_traces_norm.npy | min-max normalized traces from variable_key_database   |
 
+
+
 CPA results would be as followed:
+
+
 ![figure](https://user-images.githubusercontent.com/49137368/80730020-01a74d80-8b44-11ea-8bc9-530afef33a77.jpg)
